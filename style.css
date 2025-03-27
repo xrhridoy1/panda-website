@@ -1,0 +1,35 @@
+.carousel{
+  background-color: #ffc0cb;
+  height: 500px;
+  margin-top: 90px;
+  border-radius: 15px;
+
+  .carousel-product{
+    margin-left: 50px;
+  }
+  h2{
+    color: #ff0e0e;
+  }
+
+  h1{
+    font-size:3rem;
+  }
+
+  a{
+    text-decoration: none;
+    background-color: #fc889b;
+    word-spacing: 5px;
+    border-radius: 10px;
+    padding: 5px 20px;
+    width: 125px;
+    margin-top: 20px;
+  }
+
+  .text-line{
+    margin-top: 6%;
+
+    p{
+      font-size: 20px;
+    }
+  } 
+}
