@@ -44,6 +44,9 @@
 
 .catagori{
   margin-top: 100px;
+  h2{
+    color: #fffafa;
+  }
 }
 .text-head{
   margin-top: 100px;
